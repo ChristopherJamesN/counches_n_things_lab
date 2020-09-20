@@ -9,12 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "browser-sync": "2.26.7",
-    "del": "5.0.0",
+    "browser-sync": "^2.26.12",
+    "del": "^5.1.0",
     "gulp": "4.0.2",
     "run-sequence": "2.2.1"
   },
   "devDependencies": {
-    "workbox-build": "^4.3.1"
+    "workbox-build": "^5.1.4"
   }
 }
